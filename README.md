@@ -21,3 +21,8 @@ How do the die results in a typical Catan game match up to the probability-predi
 - Run a sample of games tracking the distribution of roles.
 - Compare these distributions to the raw probabilities of each role.
 - 
+
+
+### reference resources/resources to explore
+- [colonist.io](https://colonist.io)
+- [catan data analysis](https://www.alexcates.com/post/board-game-breakdown-settlers-of-catan-the-basics)
